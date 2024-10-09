@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(247, 247, 241);
+}
+
+.codigo{
+    text-align: left;
+    margin-left: 600px;
+}
+
+header, main{
+    text-align: center;
+}
+
+a{
+    color: rgb(145, 145, 44);
+    text-decoration: none;
+}
+
+img{
+    border: 3px solid;
+    border-radius: 7px;
+    border-color: rgb(224, 224, 119);
+}
